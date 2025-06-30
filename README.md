@@ -2,7 +2,7 @@
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
 
-| Project number | Title | Description 
+| Project number | Title | Description |
 
 | 1 | Spreadsheet Data Analysis |Collect and clean spreadsheet data| 
 | 2 | Data collection and storage| Collect and store data using SQL| 
